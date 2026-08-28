@@ -16,7 +16,6 @@ class Solution {
         ListNode t = dummy;
 
         int carry = 0;
-//calsdfj;al;
         while(t1!=null || t2!=null){
             int x =(t1!=null) ? t1.val : 0;
             int y =(t2!=null) ? t2.val : 0;
@@ -24,8 +23,8 @@ class Solution {
             if(sum>9){
                 carry = 1;
             }
-            else { carry = 0; }
-            sum = sum%10;
+            else { carry = 0; } // adf
+            sum = sum%10; //ajfksd
             ListNode a = new ListNode(sum);
             t.next = a;
             t = t.next;
