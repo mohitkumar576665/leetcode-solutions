@@ -39,7 +39,7 @@ Follow up: Could you solve it without converting the integer to a string?
 |---|---|
 | Status | ✅ Accepted |
 | Language | `java` |
-| Submission | `2123335813` |
+| Submission | `2123335990` |
 | Source | [LeetCode](https://leetcode.com/problems/palindrome-number/) |
 
 </details>
