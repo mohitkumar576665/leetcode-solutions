@@ -36,7 +36,7 @@ Constraints:
 |---|---|
 | Status | ✅ Accepted |
 | Language | `java` |
-| Submission | `2123333236` |
+| Submission | `2123333479` |
 | Source | [LeetCode](https://leetcode.com/problems/reverse-integer/) |
 
 </details>
