@@ -16,7 +16,7 @@ class Solution {
         ListNode t = dummy;
 
         int carry = 0;
-
+//calsdfj;al;
         while(t1!=null || t2!=null){
             int x =(t1!=null) ? t1.val : 0;
             int y =(t2!=null) ? t2.val : 0;
