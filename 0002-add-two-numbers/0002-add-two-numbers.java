@@ -24,8 +24,8 @@ class Solution {
                 carry = 1;
             }
             else { carry = 0; } // adf
-            sum = sum%10; //ajfksd
-            ListNode a = new ListNode(sum);
+                sum = sum%10; //ajf
+            ListNode a = new ListNode(sum); //afafd
             t.next = a;
             t = t.next;
             if(t1!=null)t1 = t1.next;
