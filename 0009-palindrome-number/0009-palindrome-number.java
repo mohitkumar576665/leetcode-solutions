@@ -13,7 +13,7 @@ class Solution {
             if (s.charAt(i) != s.charAt(j))
                 return false; //af 
 
-            i++;
+            i++; //sf //gsg
             j--;
         }
 
