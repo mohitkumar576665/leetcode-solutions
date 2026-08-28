@@ -15,7 +15,7 @@ class Solution {
         ListNode dummy = new ListNode(-1);
         ListNode t = dummy;
 
-        int carry = 0;
+        int carry = 0; // adfadfjk
         while(t1!=null || t2!=null){
             int x =(t1!=null) ? t1.val : 0;
             int y =(t2!=null) ? t2.val : 0;
@@ -24,8 +24,8 @@ class Solution {
                 carry = 1;
             }
             else { carry = 0; } // adf
-                sum = sum%10; //ajf
-            ListNode a = new ListNode(sum); //afafd
+                sum = sum%10; 
+                    ListNode a = new ListNode(sum); //afafd
             t.next = a;
             t = t.next;
             if(t1!=null)t1 = t1.next;
